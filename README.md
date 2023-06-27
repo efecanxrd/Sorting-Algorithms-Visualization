@@ -8,4 +8,4 @@
  <h5>pip install tkinter </h5>
 <h2> How this is working? </h2>
   <h4>Illustrated algorithms with tkinter. </h4>
-<img src="https://im5.ezgif.com/tmp/ezgif-5-e79796642b.gif">
+<img src="https://i.hizliresim.com/5k8prfg.gif">
